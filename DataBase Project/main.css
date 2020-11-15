@@ -1,0 +1,29 @@
+.height{
+ /*   height: 1000px;
+*/
+min-height: 100vh;
+
+}
+.title-underline{
+    width: 200px;
+    height: 5px;
+    margin: 5;
+    
+    /* background: blue!important;*/
+    
+}
+
+.height-80{
+    min-height: 80vh;
+}
+
+.body{
+    background-color: aqua;
+    
+    /* background: blue!important; */
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
